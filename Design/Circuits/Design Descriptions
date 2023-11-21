@@ -1,0 +1,4 @@
+Here you will find iterative circuit designs to progress testing our hardware components. These include:
+-Testing the Current Reader ACS712 5v, which is the most important component, as it is getting data from the solar panel's current. We need to insure it is sensitive enough to detect changes in current.
+-Testing with one servo motor. This is to get an initial positioning algorithm working, that can be built upon.
+-Testing with two servo motors. This is the diagram of our final circuit.
