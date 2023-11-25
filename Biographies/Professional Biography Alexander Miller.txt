@@ -1,0 +1,42 @@
+Alexander Miller
+
+[mille8ae@mail.uc.edu](mailto:mille8ae@mail.uc.edu)
+
+**Co-op Work Experience**
+    - Cleveland Cliffs, Middletown, OH 	January 2023 – Present
+	- Process Control/Process Automation Engineer
+	- Maintain production server environment and HMI systems
+	- Modernize IT environment and deploy future-proofed technology
+	- Support operational groups and ensure technology integrity for continuous production
+	- Developed range of applications including custom facility wide Version Control and IT Helpdesk Web app
+    - Siemens EDA, Cincinnati, OH	August 2021 - August 2022
+	- Software Engineering Co-op
+	- Improved data collection and organization for vital testing services
+	- Worked with Perl programming language to modify actions taken by the testing system
+	- Collaborated remotely as part of a nation-wide team in an agile work environment
+    - Northrop Grumman – Xetron, Cincinnati, OH	January 2021 – May 2021
+	- Software Engineering Co-op
+	- Developed and updated working codebase in Python programming language
+	- Utilized Python’s Selenium library to control web-based applications
+	- Created, ran, and maintained a suite of easy and repeatable testing
+	- Operated in a secured environment for government contracting
+**Skills and Expertise**
+    - Programming Languages
+        - C#
+        - C++
+        - Python
+    - UI Development
+        - CSS
+	- HTML
+    - Software
+        - Autodesk
+    - Version Control and Development Methodology
+        - Git
+        - Agile
+**Areas of Interest**
+    - OT/IT Integration
+    - Manufacturing Automation
+**Project**
+    - Use of Arduino to manage a mechanical system with PIDs
+    - Green energy such as solar panels
+    - Utilization of 3D printed materials and software
