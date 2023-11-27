@@ -1,0 +1,36 @@
+Katherine Kraus
+
+[krauskr@mail.uc.edu](mailto:krauskr@mail.uc.edu)
+
+**Co-op Work Experience**
+- OTTO Waste Systems, Singapore, Singapore March-August 2023
+    - Sales Data Analyst Co-op
+    - Integrated myself into the Singapore work culture and worked as apart of a Singaporean team
+    - Analyzed sales data from multiple sources to predict inventory stock needed and create an SOP 
+    - Organized and presented sales data to potential customers
+- Siemens, Milford, Ohio May-August 2022
+    - SSP Internship
+    - Compared technical documentation from old and current systems for errors to update
+    - Analyzed company data storage database with my team to help overhaul the storage system
+    - Troubleshooted and fixed technical issues on in-house software used for creating client documentation 
+- **Skills and Expertise**
+    - Programming Languages
+        - C++
+        - Python
+        - Java
+        - SQL
+    - UI Development
+        - HTML
+    - Software
+        - SAGE
+    - Version Control and Development Methodology
+        - Git
+        - Agile
+- **Areas of Interest**
+    - Cyber Security
+    - Data Analytics
+    - Process Controls and PLCs
+- **Project**
+    - Use of Arduino to manage a mechanical system with PIDs
+    - Green energy such as solar panels
+    - Utilization of 3D printed materials and software
