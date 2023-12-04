@@ -13,7 +13,7 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [ABET Concerns Essay](https://github.com/cabledc/Senior-Design/blob/main/Planning/Constraints%20(Assignment%207))
 
-[PPT Slideshow](https://docs.google.com/presentation/d/1Uh3yntjkCbQ4Bp179t2qDCXj0XJqy0VUoiHPsw-8cGM/edit#slide=id.p)
+[PPT Slideshow](https://youtu.be/Y3RMfyllHsM)
 
 [Self-Assessment Essays](https://github.com/cabledc/Senior-Design/tree/main/Team%20Info/Individual%20Capstone%20Assessments)
 
