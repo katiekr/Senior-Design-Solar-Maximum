@@ -9,6 +9,7 @@
 - 5A Current Sensor Module ACS712 Module Compatible for Arduino
 - 3.7V Lithium ion Battery 1100mAh 603449 Rechargeable 3.7 Volt Lipo Battery Pack or an equivalent battery pack
 - 900mA MPPT Solar Panel Controller
+- Wiring for connecting components
 - Male to male Usb connector for the Arduino board (for installing software and connecting the charge controller)
 - A computer or laptop than can run Arduino IDE
 
