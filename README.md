@@ -23,7 +23,7 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [Appendix](https://github.com/cabledc/Senior-Design/blob/main/Planning/Appendix)
 
-# User Documentation
+## User Documentation
 [Hardware Setup (Start Here)](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Hardware%20Setup.md)  
 
 [Software Setup (WIP)](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Software%20Setup.md)  
