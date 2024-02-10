@@ -1,3 +1,4 @@
+[Return](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main?tab=readme-ov-file#user-documentation)
 
 # Hardware Setup
 
@@ -15,3 +16,4 @@
 ![Circuit](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Circuits/Arduino_Diagram_2_Servos.PNG?raw=true)
 
 
+[Return](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main?tab=readme-ov-file#user-documentation)
