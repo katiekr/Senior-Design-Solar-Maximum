@@ -9,7 +9,7 @@
 >   
 > **Is the device waterproof?**
 > 
-> > *A housing is required for waterproofing the electronics. You can either make one by hand or download the 3D print files (here). Exposing the board or wire connectors to the elements will likely damage it. Guide for attaching 3D printed the housing is (here)*
+> > *A housing is required for waterproofing the electronics. You can either make one by hand or download the 3D print files (here)[]. Exposing the board or wire connectors to the elements will likely damage it. Guide for attaching 3D printed the housing is (here)[]*
 > 
 > **Does my operating system matter for setup?**
 > 
