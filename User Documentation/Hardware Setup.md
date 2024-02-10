@@ -11,7 +11,7 @@
 - 900mA MPPT Solar Panel Controller
 - A computer or laptop than can run Arduino IDE
 
-##Circuit Setup
+## Circuit Setup
 ![Circuit](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Circuits/Arduino_Diagram_2_Servos.PNG?raw=true)
 
 
