@@ -1,7 +1,7 @@
 ## FAQ
 > **Do I need to calibrate the device?**
 > 
-> - No the device should calibrate on its own when place outside, ideally in a non obscured location.
+> > No the device should calibrate on its own when place outside, ideally in a non obscured location.
 >   
 > **What if the battery is dead when setting up the device?**
 > 
