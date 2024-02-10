@@ -1,4 +1,3 @@
-> [Return](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main?tab=readme-ov-file#user-documentation)
 
 # Software Setup (WIP)
 
