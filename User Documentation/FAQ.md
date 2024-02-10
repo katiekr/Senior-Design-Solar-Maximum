@@ -13,7 +13,7 @@
 > 
 > **Does my operating system matter for setup?**
 > 
-> > *Arduino IDE runs on Windows, Apple, and Linux systems. Select the corresponding download for your operating system*
+> > *Arduino IDE runs on Windows, Apple, and Linux systems. Select the corresponding download for your operating system.*
 >
 > **How can I edit the sketch file/code while the device is running?**
 > > *One of the hardware components required is a DC 5V to DC 9V USB Voltage Step Up Converter Cable. This cable plugs into the arduino boards 9v port, and the usb into the solar controller. This frees up the usb port on the arduino allowing you to plug the entire device into your PC/Laptop for debugging and editing code**.
