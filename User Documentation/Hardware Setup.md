@@ -14,7 +14,7 @@
 - A computer or laptop than can run Arduino IDE
 
 ## Circuit Setup
-- The circuit below represents a setup with the software installed. When installing the software plug the arduino into the pc through the usb port. When finished disconnect from the PC/Laptop and attach the charge controller back to the arduino.
+- The circuit below represents a setup with the software installed. When installing the software plug the arduino into the pc through the usb port. When finished, disconnect from the PC/Laptop and attach the charge controller back to the arduino.
 ![Circuit](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Circuits/Arduino_Diagram_2_Servos.PNG?raw=true)
 
 
