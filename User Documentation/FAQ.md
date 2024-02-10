@@ -13,6 +13,6 @@
 > 
 > **Does my operating system matter for setup?**
 > 
-> > *Arduino IDE runs on Windows, Apple, and Linux systems. Select the corresponding download for your operating system*
+> > *Arduino IDE runs on Windows, Apple, and Linux systems. Select the corresponding download for your operating system* (here)[https://github.com/cabledc/Senior-Design-Solar-Maximum/edit/main/User%20Documentation/FAQ.md]
 
 > [Return](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main?tab=readme-ov-file#user-documentation)https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main?tab=readme-ov-file#user-documentation)
