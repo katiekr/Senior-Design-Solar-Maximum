@@ -1,7 +1,10 @@
 > 2/14/22 
 > ## Current module testing
 - ACS712 module testing with 220ohm resistor and blue LED (3.5v) showed very little variation in current in indirect sunlight vs indoors (5pm).
-    The load might need to be increased for more current draw, so the ACS712 current sensor can hopefully detect variations more accurately. Further testing might be needed with the charge controller and battery, which is in diagram one but with the servo absent.
+  
+    The load might need to be increased for more current draw, so the ACS712 current sensor can hopefully detect variations more accurately.
+    Further testing might be needed with the charge controller and battery, which is in diagram one but with the servo absent.
+  
     Charging the battery should provide sufficient load. **However if the battery is full, the current will drop and the solar panel will stop adjusting for an optimal angle until the battery depletes.
     This might be beneficial to prevent overcharging and increase effeciency, as the panel would only start moving again when the battery starts to deplete.**  
 
