@@ -1,4 +1,5 @@
-> 2/14/22 
+> 2/14/22
+> ### *Arduino and electrical jargon warning ahead*
 > ## Current module testing
 - ACS712 module testing with 220ohm resistor and blue LED (3.5v) showed very little variation in current in indirect sunlight vs indoors (5pm).
   
