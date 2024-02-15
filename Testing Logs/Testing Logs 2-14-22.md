@@ -9,7 +9,8 @@
     This might be beneficial to prevent overcharging and increase effeciency, as the panel would only start moving again when the battery starts to deplete.**  
 
 - **The bit resolution of the arduino board might be a limiting factor** using the hall effect from ACS712, which has no onboard processing and requires the user to implement code to convert to mA and is analog to analog at 10bits. This data is processed by the Arduino directly.
-    Adafruit INA219 uses a different method for measurement. Through a "shunt resistor" and an **onboard processing resolution of 12bits** to directly output current(mA), voltage(mV), and power(mW). These values are digital on the INA219 board, then directly output to analog to the arduino, **bypassing the     10bit processing limit**. As the arduino is not doing the processing, only recieving processed values from the INA219 board.
+  
+    Adafruit INA219 uses a different method for measurement. Through a "shunt resistor" and an **onboard processing resolution of 12bits** to directly output current(mA), voltage(mV), and power(mW). These values are digital on the INA219 board, then directly output to analog to the arduino, **bypassing the 10bit processing limit**. As the arduino is not doing the processing, only recieving processed values from the INA219 board.
   
 - **ACS712 has a current resolution of 75mA while the Adafruit INA219 has a resolution of 0.08mA.** So it will probably be switched as the main sensor if testing proves this increase in accuracy.
 - A few other issues encountered with the ACS712 module occurred when it was moved or bumped (not the solar panel), and resulted in large current fluctuations. Since the solar panel will be moving on a servo this could pose issues for excessive noise and calibration difficulties.
