@@ -5,8 +5,8 @@
     The load might need to be increased for more current draw, so the ACS712 current sensor can hopefully detect variations more accurately.
     Further testing might be needed with the charge controller and battery, which is in diagram one but with the servo absent.
   
-    Charging the battery should provide sufficient load. **However if the battery is full, the current will drop and the solar panel will stop adjusting for an optimal angle until the battery depletes.
-    This might be beneficial to prevent overcharging and increase effeciency, as the panel would only start moving again when the battery starts to deplete.**  
+    Charging the battery should provide sufficient load. **However if the battery is full, the current will drop and the solar panel will stop adjusting for an optimal position until the battery starts depleting.
+    This might be beneficial to prevent overcharging and increase effeciency, as the panel would only start moving again when the battery is not full.** Further testing with a servo will be needed to confirm this though.  
 
 - **The bit resolution of the arduino board might be a limiting factor** using the hall effect from ACS712, which has no onboard processing and requires the user to implement code to convert to mA and is analog to analog at 10bits. This data is processed by the Arduino directly.
   
