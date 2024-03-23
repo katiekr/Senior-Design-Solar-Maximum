@@ -1,3 +1,5 @@
+![alt text](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Expo%20Slide%20Deck/Solar_Maximum_Logo.png?raw=true)
+
 # Senior-Design-Solar-Maximum
 [Team names (include Advisor) and Project Abstract](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Team%20Info/Project%20and%20Group%20Members)
 
