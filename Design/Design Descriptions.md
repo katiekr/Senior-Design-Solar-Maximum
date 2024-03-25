@@ -1,12 +1,12 @@
 ##Design Diagram Descriptions
 
-##Design 1
+## Design 1
   - Input 
     - Solar energy
   - Output
     - Panel Orientation
 
-##Design 2
+## Design 2
   - Input 
     - Solar energy
     - Arduino
@@ -16,7 +16,7 @@
     - Panel Rotation
     - Battery
 
-##Design 3
+## Design 3
   - Input
     - Solar energy
     - Electricity measurement to arduino
