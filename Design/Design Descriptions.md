@@ -24,7 +24,7 @@
     - Battery
     - Charge Controller
 
-  -Output
+  - Output
     - Arduino
     - Positioning/Tracking Algorithm Output
     - Panel Rotation
