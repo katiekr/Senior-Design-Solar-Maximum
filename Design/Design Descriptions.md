@@ -1,12 +1,12 @@
 ## Design Diagram Descriptions
 
-## Design 1
+## Design 1 Simple diagram of the system loop
   - Input 
     - Solar energy
   - Output
     - Panel Orientation
 
-## Design 2
+## Design 2 Shows computation and energy storage integration
   - Input 
     - Solar energy
     - Arduino
@@ -16,7 +16,7 @@
     - Panel Rotation
     - Battery
 
-## Design 3
+## Design 3 Shows computation algorithm inputs and outputs, energy storage and management, and how the feedback loop operates
   - Input
     - Solar energy
     - Electricity measurement to arduino
