@@ -16,7 +16,7 @@
     - Panel Rotation
     - Battery
 
-## Design 3 Shows computation the algorithm inputs and outputs, energy storage and management, and how the feedback loop operates
+## Design 3 Shows computation the algorithm inputs and outputs, energy storage and management, and how the feedback loop operates.
   - Input
     - Solar energy
     - Electricity measurement to arduino
