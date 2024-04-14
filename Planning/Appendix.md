@@ -8,8 +8,8 @@
 - The Current reader applies zero load, so the initial circuit would have shorted and damaged the panel. A 220ohm resistor + LED was added for a load to prevent this.
 
   ### Software
-  - We have found supporting libraries exist for the arduino components we are using. These can be imported to allow faster interfacing with the components
-    - Research on PID implementation. This will smooth jumpy/uneven output from an algorithm that is adjusting servo position(s).
+- We have found supporting libraries exist for the arduino components we are using. These can be imported to allow faster interfacing with the components
+  - Research on PID implementation. This will smooth jumpy/uneven output from an algorithm that is adjusting servo position(s).
 
 
 ### What still needs to be done next semester (In Order):
