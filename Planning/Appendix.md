@@ -15,5 +15,11 @@
 ### What still needs to be done next semester (In Order):
     Hardware prototype assembly.
     Arduino software implementation. And initial component interface testing.
-    - Each circuit (already designed) will be tested. There are 3, each one is more complex, but allows for a step     by step process for testing. Leading to the final circuit.
+    Each circuit (already designed) will be tested. There are 3, each one is more complex, but allows for a step by step process for testing. Leading to the final circuit.
     3D printing of housing for the prototypes, if needed.
+
+# (Senior Design Part 2)
+### Hardware
+After testing servo motors, we realized they cannot do a full 360 degree rotation. There was also no way to keep an accurate measurement of their movement. So we had to switch back to using a stepper motor instead. This allows us to keep track of steps and store information on energy recieved in each direction. As well as providing info for an untangle function.
+
+We switched to Adafruit INA219 for current measurement as it provided higher resolution data, and allowed the device to work indoors with a flashlight. The ACS712 module was not sensitive enough for the low voltages we were using. More info can be found in the testing log summary [Current Testing](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Testing%20Logs/Testing%20Logs%202-14-22.md)
