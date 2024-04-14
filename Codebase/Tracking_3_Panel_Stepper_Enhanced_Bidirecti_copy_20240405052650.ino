@@ -254,7 +254,7 @@ int Clockwise(){
   int stepIntervalCount = 0;
   //Allows an initial loop to pass to get old and new readings
   bool init = false;
-  //(new sum of readings - old sum of readings)
+  //(new sum of readings - old sum of readings)/stepInterval
   float rateOfIncrease = 0;
   //rateOfIncrease, stored after each loop
   float oldRateOfIncrease =0;
