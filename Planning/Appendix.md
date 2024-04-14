@@ -2,10 +2,10 @@
 ## What has been done:
   ### Hardware
   All the correct hardware has been acquired and the circuits have been designed. The hardware has been researched to match the specs of our design, (voltage, wattage, etc).
-    - We have found we needed a charge controller instead of connecting a battery directly to the solar panel. Otherwise this would have damaged the battery.
-    - Stepper motors were switched for servo motors. As stepper motors require constant charge, even when not moving. They also each require a control board making the circuit more complicated.
-    - Powering arduino components from the charge controller, instead of the arduino directly. Servo motors can spike in amps and potentially cut power from the arduino. Connecting everything to the main power supply (charge controller) prevents this.
-    - The Current reader applies zero load, so the initial circuit would have shorted and damaged the panel. A 220ohm resistor + LED was added for a load to prevent this.
+- We have found we needed a charge controller instead of connecting a battery directly to the solar panel. Otherwise this would have damaged the battery.
+- Stepper motors were switched for servo motors. As stepper motors require constant charge, even when not moving. They also each require a control board making the circuit more complicated.
+- Powering arduino components from the charge controller, instead of the arduino directly. Servo motors can spike in amps and potentially cut power from the arduino. Connecting everything to the main power supply (charge controller) prevents this.
+- The Current reader applies zero load, so the initial circuit would have shorted and damaged the panel. A 220ohm resistor + LED was added for a load to prevent this.
 
   ### Software
   - We have found supporting libraries exist for the arduino components we are using. These can be imported to allow faster interfacing with the components
