@@ -36,6 +36,9 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
   - Negative feedback when the rate of increase is less than the previous rate of increase, divides steps to slow the panels movement and increase measurement frequency. Once this is less than 2 the panel stops.
 - int startingSteps = 40;
   - Initial movement check, in each direction. A full rotation is 2048 steps.
+
+
+---
  
 #### Overall Listed Objectives Summmary:
 - General design and project outline(October)
