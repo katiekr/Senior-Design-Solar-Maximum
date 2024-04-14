@@ -13,7 +13,7 @@
 
 
 ### What still needs to be done next semester (In Order):
-  Hardware prototype assembly.
-  Arduino software implementation. And initial component interface testing.
-    - Each circuit (already designed) will be tested. There are 3, each one is more complex, but allows for a step by step process for testing. Leading to the final circuit.
-  3D printing of housing for the prototypes, if needed.
+    Hardware prototype assembly.
+    Arduino software implementation. And initial component interface testing.
+    - Each circuit (already designed) will be tested. There are 3, each one is more complex, but allows for a step     by step process for testing. Leading to the final circuit.
+    3D printing of housing for the prototypes, if needed.
