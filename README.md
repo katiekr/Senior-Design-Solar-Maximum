@@ -9,7 +9,9 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [General Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design)
 
-[Circuit Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design/Circuits)
+[Old Circuit Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design/Circuits)
+
+[Updated Circuit Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design/Circuits](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated))
 
 [Project Tasks and Timeline](https://github.com/cabledc/Senior-Design/blob/main/Planning/Tasklist.md)
 
