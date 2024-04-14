@@ -21,5 +21,15 @@
 # (Senior Design Part 2)
 ### Hardware
 After testing servo motors, we realized they cannot do a full 360 degree rotation. There was also no way to keep an accurate measurement of their movement. So we had to switch back to using a stepper motor instead. This allows us to keep track of steps and store information on energy recieved in each direction. As well as providing info for an untangle function.
-
 We switched to Adafruit INA219 for current measurement as it provided higher resolution data, and allowed the device to work indoors with a flashlight. The ACS712 module was not sensitive enough for the low voltages we were using. More info can be found in the testing log summary [Current Testing](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Testing%20Logs/Testing%20Logs%202-14-22.md)
+
+The circuit diagrams had to be updated as well and can be found here [Upodated Circuits](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
+
+### Software
+3 Versions of the software are provided along with the testing for the ACS712 module. Each tracking code release improves on the previous version. The algorithm does not use a PID controller as this didn't quite fit the data and scenario we were trying to use it for. There are 3 main variables that control the new algorithm:
+- int addSteps = 2;
+  - Positive feedback when the rate of increase is greater than the previous rate of increase, adds steps to move the panel further in its current direction
+- int divideSteps = 4;
+  - Negative feedback when the rate of increase is less than the previous rate of increase, divides steps to slow the panels movement and increase measurement frequency. Once this is less than 2 the panel stops.
+- int startingSteps = 40;
+  - Initial movement check, in each direction. A full rotation is 2048 steps. 
