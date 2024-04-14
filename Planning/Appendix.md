@@ -35,4 +35,20 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 - int divideSteps = 4;
   - Negative feedback when the rate of increase is less than the previous rate of increase, divides steps to slow the panels movement and increase measurement frequency. Once this is less than 2 the panel stops.
 - int startingSteps = 40;
-  - Initial movement check, in each direction. A full rotation is 2048 steps. 
+  - Initial movement check, in each direction. A full rotation is 2048 steps.
+ 
+#### Overall Listed Objectives Summmary:
+- General design and project outline(October)
+- Hardware planning and research(November)
+- Circuit Design (December)
+- Build first test prototype(February)
+- Interface components with Arduino IDE(February)
+- Mechanical Prototype Development/Testing(End of February)
+  - Testing sensors, software calibration and filtering of raw data from the sensors.
+  - Ensuring all components are tested and operate correctly and accurately
+- Arduino Software Development(March)
+  - Use the filtered sensor data to develop code to move the stepper with the attached solar panel
+
+
+
+    
