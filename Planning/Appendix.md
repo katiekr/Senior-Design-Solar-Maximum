@@ -23,7 +23,9 @@
 After testing servo motors, we realized they cannot do a full 360 degree rotation. There was also no way to keep an accurate measurement of their movement. So we had to switch back to using a stepper motor instead. This allows us to keep track of steps and store information on energy recieved in each direction. As well as providing info for an untangle function.
 We switched to Adafruit INA219 for current measurement as it provided higher resolution data, and allowed the device to work indoors with a flashlight. The ACS712 module was not sensitive enough for the low voltages we were using. More info can be found in the testing log summary [Current Testing](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Testing%20Logs/Testing%20Logs%202-14-22.md)
 
-The circuit diagrams had to be updated as well and can be found here [Upodated Circuits](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
+The circuit diagrams had to be updated as well and can be found here [Updated Circuits](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
+
+A 3D printed holder for the solar panel and stepper motor mount was created. Those files can be found here [3D Prints](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/3D%20Printer%20Files)
 
 ### Software
 3 Versions of the software are provided along with the testing for the ACS712 module. Each tracking code release improves on the previous version. The algorithm does not use a PID controller as this didn't quite fit the data and scenario we were trying to use it for. There are 3 main variables that control the new algorithm:
