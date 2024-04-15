@@ -60,8 +60,10 @@ Destry Cable
   - Code Development
   - Testing
   - Soldering
+    
 Katherine Kraus
 - Testing Planning
+  
 Alexander Miller
 - Logo and Poster Design
 
