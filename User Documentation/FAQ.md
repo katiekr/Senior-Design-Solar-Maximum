@@ -9,7 +9,7 @@
 >   
 > **Is the device waterproof?**
 > 
-> > *A housing is required for waterproofing the electronics. Exposing the board or wire connectors to the elements will likely damage it. You can either make one by hand or download the 3D print files [here](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/3D%20Printer%20Files). Guide for attaching 3D printed the housing is [here](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/3D%20Printed%20Housing%20Setup.md)*
+> > *A housing is required for waterproofing the electronics. Exposing the board or wire connectors to the elements will likely damage it. This prototype does not include any housing.
 > 
 > **Does my operating system matter for setup?**
 > 
