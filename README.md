@@ -5,13 +5,15 @@
 
 Project Description: Suntracking based on current input from a solar panel.
 
+## First Semester
+
+[Professional Biographies](https://github.com/cabledc/Senior-Design/tree/main/Biographies)
+
 [User Stories](https://github.com/cabledc/Senior-Design/blob/main/Design/User_Stories.md)
 
 [General Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design)
 
 [Old Circuit Design Diagrams](https://github.com/cabledc/Senior-Design/tree/main/Design/Circuits)
-
-[Updated Circuit Design Diagrams](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
 
 [Project Tasks and Timeline (First Semester)](https://github.com/cabledc/Senior-Design/blob/main/Planning/Tasklist.md)
 
@@ -19,17 +21,19 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [PPT Slideshow Presentation (First Semester)](https://youtu.be/Y3RMfyllHsM)
 
+[Self-Assessment Essays](https://github.com/cabledc/Senior-Design/tree/main/Team%20Info/Individual%20Capstone%20Assessments)
+
+## Second Semester
+
+[Updated Circuit Design Diagrams](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
+
 [Final Slideshow](https://docs.google.com/presentation/d/1W2lsvOgBEtwCP_O_Z_gjLA5nCKRydTqi8DpXf8fchjA/edit#slide=id.p)
 
 [Expo Poster](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Expo%20Slide%20Deck/Poster/Final%20Poster.pdf)
 
-[Self-Assessment Essays](https://github.com/cabledc/Senior-Design/tree/main/Team%20Info/Individual%20Capstone%20Assessments)
-
-[Professional Biographies](https://github.com/cabledc/Senior-Design/tree/main/Biographies)
+[Testing and Video Demos](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Testing%20Logs)
 
 [Budget](https://github.com/cabledc/Senior-Design/blob/main/Planning/Budget)
-
-[Testing and Video Demos](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Testing%20Logs)
 
 [Appendix](https://github.com/cabledc/Senior-Design/blob/main/Planning/Appendix.md)
 
