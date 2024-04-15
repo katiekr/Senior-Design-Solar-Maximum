@@ -53,16 +53,16 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
   - Use the filtered sensor data to develop code to move the stepper with the attached solar panel
 
 #### Work Division (Second Semester)
-Destry Cable - cabledc@mail.uc.edu
+Destry Cable
 - Prototype Devlopment
   - 3D Printing
   - Circuit Redesign
   - Code Development
   - Testing
   - Soldering
-Katherine Kraus - krauskr@mail.uc.edu
+Katherine Kraus
 - Testing Planning
-Alexander Miller - mille8ae@mail.uc.edu
+Alexander Miller
 - Logo and Poster Design
 
     
