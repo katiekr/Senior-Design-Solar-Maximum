@@ -55,18 +55,22 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 ---
 
 ### Work Division (Second Semester)
-> Destry Cable
-- Prototype Devlopment
-  - 3D Printing
-  - Circuit Redesign
-  - Code Development
-  - Testing
-  - Soldering
+> Destry Cable 91hrs
+- Prototype Devlopment 86hrs
+  - 3D Printing 8hrs
+  - Circuit Redesign 10hrs
+  - Code Development 30hrs
+  - Testing 30hrs
+  - Soldering and wire management 8hrs
+- Expo Presenting 5hrs
     
-> Katherine Kraus
-- Testing Planning
+> Katherine Kraus 20hrs
+- Testing Planning 10hrs
+- Slides 5hrs
+- Expo Presenting 5hrs
   
-> Alexander Miller
-- Logo and Poster Design
+> Alexander Miller 30hrs
+- Logo and Poster Design 25hrs
+- Expo Presenting 5hrs
 
     
