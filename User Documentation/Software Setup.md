@@ -1,5 +1,5 @@
 
-# Software Setup (WIP)
+# Software Setup
 
 ## PC/Laptop IDE
 - [Download Arduino IDE here](https://www.arduino.cc/en/software)
