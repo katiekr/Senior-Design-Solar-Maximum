@@ -55,7 +55,7 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 ---
 
 ### Work Division (Second Semester)
-Destry Cable
+> Destry Cable
 - Prototype Devlopment
   - 3D Printing
   - Circuit Redesign
@@ -63,10 +63,10 @@ Destry Cable
   - Testing
   - Soldering
     
-Katherine Kraus
+> Katherine Kraus
 - Testing Planning
   
-Alexander Miller
+> Alexander Miller
 - Logo and Poster Design
 
     
