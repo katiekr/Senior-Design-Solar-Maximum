@@ -37,12 +37,12 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [Appendix](https://github.com/cabledc/Senior-Design/blob/main/Planning/Appendix.md)
 
-  ## User Documentation
-  [Hardware Setup (Start Here)](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Hardware%20Setup.md)  
-  
-  [Software Setup](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Software%20Setup.md)  
-  
-  [3D Printed Motor/Panel Adapter](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/3D%20Printed%20Housing%20Setup.md)  
-  
-  [FAQ](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/FAQ.md)
+### User Documentation
+[Hardware Setup (Start Here)](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Hardware%20Setup.md)  
+
+[Software Setup](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/Software%20Setup.md)  
+
+[3D Printed Motor/Panel Adapter](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/3D%20Printed%20Housing%20Setup.md)  
+
+[FAQ](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/User%20Documentation/FAQ.md)
 
