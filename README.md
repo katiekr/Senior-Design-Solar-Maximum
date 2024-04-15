@@ -13,11 +13,11 @@ Project Description: Suntracking based on current input from a solar panel.
 
 [Updated Circuit Design Diagrams](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/Design/Circuits/Updated)
 
-[Project Tasks and Timeline](https://github.com/cabledc/Senior-Design/blob/main/Planning/Tasklist.md)
+[Project Tasks and Timeline (First Semester)](https://github.com/cabledc/Senior-Design/blob/main/Planning/Tasklist.md)
 
 [ABET Concerns Essay](https://github.com/cabledc/Senior-Design/blob/main/Planning/Constraints%20(Assignment%207))
 
-[PPT Slideshow Presentation (Part 1)](https://youtu.be/Y3RMfyllHsM)
+[PPT Slideshow Presentation (First Semester)](https://youtu.be/Y3RMfyllHsM)
 
 [Final Slideshow](https://docs.google.com/presentation/d/1W2lsvOgBEtwCP_O_Z_gjLA5nCKRydTqi8DpXf8fchjA/edit#slide=id.p)
 
