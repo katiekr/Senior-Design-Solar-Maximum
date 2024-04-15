@@ -2,6 +2,7 @@ My individual contribution to this project was being the team leader/manager, an
  lead developer. I was responsible for developing the code base for the software. This
  includes filtering data input and developing the algorithm to feed the data into. Which
  controls the solar panel position by applying input to the stepper motor.
+ 
  The skills I built upon were learning how to interface with hardware through
  arduino code. Designing circuits, which I had little experience in. As well as getting a
  better understanding of how solar panels operate. This includes an understanding of
