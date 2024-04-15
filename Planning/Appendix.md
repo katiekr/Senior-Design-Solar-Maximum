@@ -29,7 +29,7 @@ The circuit diagrams had to be updated as well and can be found here [Updated Ci
 A 3D printed holder for the solar panel and stepper motor mount was created. Those files can be found here [3D Prints](https://github.com/cabledc/Senior-Design-Solar-Maximum/tree/main/3D%20Printer%20Files)
 
 ### Software
-3 Versions of the software are provided along with the testing for the ACS712 module. Each tracking code release improves on the previous version. The algorithm does not use a PID controller as this didn't quite fit the data and scenario we were trying to use it for. There are 3 main variables that control the new algorithm:
+3 Versions of the software are provided along with the testing for the deprecated ACS712 module (switched for Adafruit INA219). Each tracking code release improves on the previous version. The algorithm does not use a PID controller as this didn't quite fit the data and scenario we were trying to use it for. There are 3 main variables that control the new algorithm:
 - int addSteps = 2;
   - Positive feedback when the rate of increase is greater than the previous rate of increase, adds steps to move the panel further in its current direction
 - int divideSteps = 4;
