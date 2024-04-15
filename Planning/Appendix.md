@@ -52,6 +52,8 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 - Arduino Software Development(March)
   - Use the filtered sensor data to develop code to move the stepper with the attached solar panel
 
+---
+
 #### Work Division (Second Semester)
 Destry Cable
 - Prototype Devlopment
