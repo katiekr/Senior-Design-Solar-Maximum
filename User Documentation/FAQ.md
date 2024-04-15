@@ -9,7 +9,7 @@
 >   
 > **Is the device waterproof?**
 > 
-> > *A housing is required for waterproofing the electronics. Exposing the board or wire connectors to the elements will likely damage it. This prototype does not include any housing.
+> > *A housing is required for waterproofing the electronics. Exposing the board or wire connectors to the elements will likely damage it. This prototype does not include any housing.*
 > 
 > **Does my operating system matter for setup?**
 > 
