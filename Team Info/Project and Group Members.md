@@ -1,7 +1,10 @@
 ## Team Members
 > Destry Cable - cabledc@mail.uc.edu
+
 > Katherine Kraus - krauskr@mail.uc.edu
+
 > Alexander Miller - mille8ae@mail.uc.edu
+
 > Acting Advisor - Prof Zhao Yu
 
 ## Project Abstract
