@@ -40,7 +40,7 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 
 ---
  
-#### Overall Listed Objectives Summmary:
+### Overall Listed Objectives Summmary:
 - General design and project outline(October)
 - Hardware planning and research(November)
 - Circuit Design (December)
@@ -54,7 +54,7 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
 
 ---
 
-#### Work Division (Second Semester)
+### Work Division (Second Semester)
 Destry Cable
 - Prototype Devlopment
   - 3D Printing
