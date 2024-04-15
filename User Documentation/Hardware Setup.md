@@ -14,7 +14,7 @@
 - A computer or laptop than can run Arduino IDE
 - Access to a 3D printer to mount the solar panel to the stepper motor. (You can improvise and make your own if you don't have access to a 3D printer)
 
-![Finished Build](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Circuits/Updated/Final%20Diagram/Final_Pic.PNG?raw=true)
+![Finished Build](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Final_ProtoType.jpg?raw=true)
 
 
 
