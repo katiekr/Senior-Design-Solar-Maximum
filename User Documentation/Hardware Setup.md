@@ -21,7 +21,13 @@
 
  
 ## Circuit Setup
-- The circuit below represents the final prototype wiring. When installing the software plug the arduino into the pc through the usb port. When finished, disconnect from the PC/Laptop and make sure the charge controller is plugged into the 9v port in the arduino. Note: You can keep the laptop plugged in for debugging if needed. Some components such as the INA219 adafruit Module might need to be soldered together, this depends on where you order the part.
+The circuit below represents the final prototype wiring. When installing the software plug the arduino into the pc through the usb port. When finished, disconnect from the PC/Laptop and make sure the charge controller is plugged into the 9v port in the arduino. 
+
+Note: You can keep the laptop plugged in for debugging if needed. Some components such as the INA219 adafruit Module might need to be soldered together, this depends on where you order the part. 
+
+If no data is being printed to your debug logs, your current sensor likely isn't working, or connected correctly. A debug log should appear "Failed to find INA219 chip" if this is the case.
+
+
 ![Circuit](https://github.com/cabledc/Senior-Design-Solar-Maximum/blob/main/Design/Circuits/Updated/Final%20Diagram/Final_Pic.PNG?raw=true)
 
 
