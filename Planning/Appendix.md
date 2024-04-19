@@ -64,13 +64,15 @@ A 3D printed holder for the solar panel and stepper motor mount was created. Tho
   - Soldering and wire management 8hrs
 - Expo Presenting 5hrs
     
-> Katherine Kraus 20hrs
+> Katherine Kraus 30hrs
 - Testing Planning 10hrs
-- Slides 5hrs
+- Slides and Presenting 10hrs
 - Expo Presenting 5hrs
+- Meetings/Communication 5hrs
   
-> Alexander Miller 30hrs
-- Logo and Poster Design 25hrs
+> Alexander Miller 40hrs
+- Logo and Poster Design 30hrs
+- Meetings/Communication 5hrs
 - Expo Presenting 5hrs
 
     
